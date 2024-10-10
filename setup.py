@@ -2,7 +2,7 @@ from setuptools import setup
 from biketrauma import __version__ as current_version
 
 setup(
-  name='biketrauma',
+  name='biketrauma-CR',
   version=current_version,
   description='Visualization of a bicycle accident db',
   url='https://github.com/coralieromani/Packaging_tutorial.git',
