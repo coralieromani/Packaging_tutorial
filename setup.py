@@ -10,5 +10,15 @@ setup(
   author_email='coralie.romani@gmail.com',
   license='MIT',
   packages=['biketrauma','biketrauma.io', 'biketrauma.preprocess', 'biketrauma.vis'],
+  install_requires=[
+    'pandas',
+    'numpy',
+    'tqdm',
+    'pygal-maps-fr',
+    'pooch',
+    'pygal',
+    'setuptools',
+    'lxml'   
+  ],
   zip_safe=False
 )
