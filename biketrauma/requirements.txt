@@ -1,0 +1,8 @@
+biketrauma==0.0.1
+numpy==1.23.5
+numpy==1.24.4
+pandas==2.0.3
+pooch==1.7.0
+pooch==1.8.2
+pygal==3.0.5
+pygal==2.4.0
