@@ -1,5 +1,5 @@
 tqdm
-pygal_maps_fr
+pygal-maps-fr
 pooch
 pandas
 numpy
