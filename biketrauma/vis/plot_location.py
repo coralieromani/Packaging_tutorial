@@ -1,6 +1,6 @@
 import pygal  # First import pygal
 
-# from pygal.maps.fr import aggregate_regions
+#from pygal.maps.fr import Departments
 
 
 def plot_location(gd):
